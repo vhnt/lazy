@@ -6,19 +6,19 @@
             <br>
 
             <div>
-                <iframe src="http://ghbtns.com/github-btn.html?user=lytc&repo=lazy&type=watch&count=true&size=large"
+                <iframe src="http://ghbtns.com/github-btn.html?user=lazy-framework&repo=lazy&type=watch&count=true&size=large"
                         allowtransparency="true" frameborder="0" scrolling="0" width="150" height="30"></iframe>
-                <iframe src="http://ghbtns.com/github-btn.html?user=lytc&repo=lazy&type=fork&count=true&size=large"
+                <iframe src="http://ghbtns.com/github-btn.html?user=lazy-framework&repo=lazy&type=fork&count=true&size=large"
                         allowtransparency="true" frameborder="0" scrolling="0" width="150" height="30"></iframe>
-                <iframe src="http://ghbtns.com/github-btn.html?user=lytc&repo=lazy&type=follow&count=true&size=large"
+                <iframe src="http://ghbtns.com/github-btn.html?user=lazy-framework&repo=lazy&type=follow&count=true&size=large"
                         allowtransparency="true" frameborder="0" scrolling="0" width="150" height="30"></iframe>
             </div>
             <div>
-                <a href="https://travis-ci.org/lytc/lazy"><img src="https://travis-ci.org/lytc/lazy.png?<?= time() ?>"></a>
-                <a href="https://coveralls.io/r/lytc/lazy"><img src="https://coveralls.io/repos/lytc/lazy/badge.png"></a>
+                <a href="https://travis-ci.org/lazy-framework/lazy"><img src="https://travis-ci.org/lazy-framework/lazy.png"></a>
+                <a href="https://coveralls.io/r/lazy-framework/lazy"><img src="https://coveralls.io/repos/lazy-framework/lazy/badge.png"></a>
                 <a href="https://packagist.org/packages/lazy/lazy"><img src="https://poser.pugx.org/lazy/lazy/v/stable.png"></a>
                 <a href="https://packagist.org/packages/lazy/lazy"><img src="https://poser.pugx.org/lazy/lazy/v/unstable.png"></a>
-                <a href="https://packagist.org/packages/lazy/lazy"><img src="https://poser.pugx.org/lazy/lazy/downloads.png?<?= time() ?>"></a>
+                <a href="https://packagist.org/packages/lazy/lazy"><img src="https://poser.pugx.org/lazy/lazy/downloads.png"></a>
             </div>
         </div>
     </div>
